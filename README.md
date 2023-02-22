@@ -1,7 +1,7 @@
 # extension-openfl-nativepoint
 
 
-haxelib dev SetBrightness ./extension-openfl-nativepoint
+haxelib dev NavtiveTouchPoint ./extension-openfl-nativepoint
 
 <haxelib name="NavtiveTouchPoint" />
 
