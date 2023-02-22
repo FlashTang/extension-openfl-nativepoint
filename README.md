@@ -9,5 +9,6 @@ haxelib dev NavtiveTouchPoint ./extension-openfl-nativepoint
 NavtiveTouchPoint.start();
 
 trace(NavtiveTouchPoint.stageX());
+
 trace(NavtiveTouchPoint.stageY());
 
